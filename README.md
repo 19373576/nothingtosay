@@ -26,14 +26,12 @@ Figure 4.  Qualitative Results of More Extensive Occlusion Scenes. (Made some cr
 
 Figure 5. Visualization for the Depths. (Made some cropping to better focus on the target object)
 
-
-
-![image-20250407233504047](./README.assets/image-20250407233504047.png)
+![image-20250408012942167](./README.assets/image-20250408012942167.png)
 
 Figure 6. The Failure of GaussianEditor and Manual Removal of Occlusion
 
 
 
-![image-20250407232114635](./README.assets/image-20250407232114635.png)
+![image-20250408011407302](./README.assets/image-20250408011407302.png)
 
 Figure 7.  Qualitative Comparison of Manually Removing Occlusion's Gaussians. (Made some cropping to better focus on the target object)
